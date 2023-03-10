@@ -6,4 +6,5 @@
     <string name="title_activity_box_ex">BoxExActivity</string>
     <string name="title_activity_row_ex">RowExActivity</string>
     <string name="title_activity_column_ex">ColumnExActivity</string>
+    <string name="title_activity_box_with_constraints_ex">BoxWithConstraintsExActivity</string>
 </resources>
