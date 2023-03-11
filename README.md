@@ -1,2 +1,2 @@
 # ComposeSample
-## Fastcampus compose 강의 실습
+Fastcampus compose 강의 실습
