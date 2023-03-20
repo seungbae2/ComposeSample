@@ -10,4 +10,5 @@
     <string name="title_activity_image_ex">ImageExActivity</string>
     <string name="title_activity_coil_ex">CoilExActivity</string>
     <string name="title_activity_card_ex">CardExActivity</string>
+    <string name="title_activity_check_box_ex">CheckBoxExActivity</string>
 </resources>
