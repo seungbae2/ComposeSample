@@ -50,7 +50,7 @@ fun ItemPreview() {
     CatalogTheme {
         Item(
             ItemData(
-                imageId = drawable.a1,
+                imageId = R.drawable.a1,
                 title = "해변 놀이 공원",
                 description = "해변 놀이 공원 설명입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
             )
@@ -82,47 +82,47 @@ data class ItemData(
 
 val items = listOf(
     ItemData(
-        imageId = drawable.a1,
+        imageId = R.drawable.a1,
         title = "해변 놀이 공원",
         description = "해변 놀이 공원 설명입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a2,
+        imageId = R.drawable.a2,
         title = "캐년",
         description = "미국의 캐년입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a3,
+        imageId = R.drawable.a3,
         title = "워터월드",
         description = "워터월드입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a4,
+        imageId = R.drawable.a4,
         title = "미국의 캐년",
         description = "미국의 캐년입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a5,
+        imageId = R.drawable.a5,
         title = "라스베가스",
         description = "라스베가스입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a6,
+        imageId = R.drawable.a6,
         title = "호르슈 밴드",
         description = "호르슈 밴드입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a7,
+        imageId = R.drawable.a7,
         title = "미국의 길",
         description = "미국의 길입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a8,
+        imageId = R.drawable.a8,
         title = "엔텔로프 캐년",
         description = "엔텔로프 캐년입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),
     ItemData(
-        imageId = drawable.a9,
+        imageId = R.drawable.a9,
         title = "그랜드 캐년",
         description = "그랜드 캐년입니다. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
     ),

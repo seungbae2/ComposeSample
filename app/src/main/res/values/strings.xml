@@ -16,4 +16,5 @@
     <string name="title_activity_slot">SlotActivity</string>
     <string name="title_activity_scaffold">ScaffoldActivity</string>
     <string name="title_activity_catalog">CatalogActivity</string>
+    <string name="title_activity_constraint_layout">ConstraintLayoutActivity</string>
 </resources>
