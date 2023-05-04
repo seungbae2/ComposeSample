@@ -18,4 +18,7 @@
     <string name="title_activity_catalog">CatalogActivity</string>
     <string name="title_activity_constraint_layout">ConstraintLayoutActivity</string>
     <string name="title_activity_constraint_set">ConstraintSetActivity</string>
+    <string name="title_activity_constraint_layout_chain_barrier">
+        ConstraintLayoutChainBarrierActivity
+    </string>
 </resources>
