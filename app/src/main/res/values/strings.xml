@@ -22,4 +22,5 @@
         ConstraintLayoutChainBarrierActivity
     </string>
     <string name="title_activity_canvas">CanvasActivity</string>
+    <string name="title_activity_dialog">DialogActivity</string>
 </resources>
